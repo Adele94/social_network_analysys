@@ -1,0 +1,7 @@
+.idea
+.idea/*
+*.txt
+*.json
+*.iml
+node_modules
+target
